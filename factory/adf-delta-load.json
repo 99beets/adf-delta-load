@@ -1,0 +1,9 @@
+{
+	"name": "adf-delta-load",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b3e3871d-646d-4399-9015-e6059a0e2cf2",
+		"tenantId": "32b55163-ab10-4932-8dfa-a5eab7bfcc80"
+	}
+}
